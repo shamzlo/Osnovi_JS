@@ -1,0 +1,47 @@
+/*
+// Ed_1
+alert('');
+const name = 'Zar';
+
+/*function getMessage(name, lastName, secondName){
+    console.log(name + ' ' + secondName + ' ' + lastName + ' AVOVA');
+}
+
+getMessage('Ivan', 'B', 'A');
+getMessage(name);
+
+function createFullName(name, lastName, secondName){
+    const result = name + ' ' + secondName + ' ' + lastName;
+    return result;
+}
+
+const fullName = createFullName(name, '1', '2' );
+
+console.log(fullName);*/
+
+//Ed_2
+
+/*const walkDirection = prompt('Where are we going?');
+
+if (walkDirection === 'left') {
+    console.log('We should go on the' + walkDirection);
+} else if (walkDirection === 'right') {
+    console.log('We should go on the' + walkDirection);
+} else if (walkDirection === 'top') {
+    console.log('We should go on the' + walkDirection);
+} else if (walkDirection === 'back') {
+    console.log('We should go on the' + walkDirection);
+} else {
+    console.log('We should stay');
+}*/
+
+//Ed_3
+ /*
+const str = "Мама мыла раму";
+
+console.log(str.length);
+
+for(let i = 0; i < str.length; i++){
+    console.log(str.charAt(i));
+}*/
+
